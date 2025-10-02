@@ -1,0 +1,18 @@
+html {
+  font-size: var(--font-size-base);
+  color: var(--color-background-secondary);
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+}
+
+input,
+button,
+select {
+  font-size: inherit;
+}

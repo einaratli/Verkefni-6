@@ -1,0 +1,18 @@
+@use 'styles/reset';
+@use 'styles/config';
+@use 'styles/base';
+@use 'styles/old';
+@use 'styles/buttons';
+@use 'styles/fonts';
+@use 'styles/forms';
+@use 'styles/grid';
+@use 'styles/layout';
+@use 'styles/utils';
+
+// compontens fyrir nedan
+@use 'styles/components/header';
+@use 'styles/components/footer';
+@use 'styles/components/card';
+@use 'styles/components/nav';
+
+
